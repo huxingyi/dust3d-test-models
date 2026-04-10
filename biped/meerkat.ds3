@@ -1,8 +1,8 @@
 Ó=DUST3D 1.0 xml 0000000195
 <?xml version="1.0" encoding="UTF-8"?>
 <ds3>
-    <model name="model.xml" offset="0" size="33167"/>
-    <asset name="canvas.png" offset="33167" size="534206"/>
+    <model name="model.xml" offset="0" size="33541"/>
+    <asset name="canvas.png" offset="33541" size="534206"/>
 </ds3>
 <?xml version="1.0" encoding="UTF-8"?>
 <canvas originX="0.293069" originY="0.623762" originZ="1.206930" rigType="Biped">
@@ -57,9 +57,10 @@
   <node id="{afe0b2ff-1cec-4fa4-9f89-c695bc0af051}" partId="{d8da326e-550e-9cf3-9adc-f37c1f084130}" radius="0.093474" x="0.295050" y="0.508911" z="1.194060"/>
   <node id="{b06de290-e3bd-4617-94bd-25a22d321a04}" partId="{a2292399-99be-a363-fba2-50724c434d1f}" radius="0.019802" x="0.293069" y="0.817779" z="1.465044"/>
   <node id="{b0d77605-9d91-4b05-0930-426d7dc670f1}" partId="{98d0e3e0-7592-1dcb-2f4f-c306fe077bce}" radius="0.015228" x="0.293147" y="0.052030" z="1.007614"/>
-  <node id="{b5a1fc5b-bcdc-4f71-8893-296775cd6744}" partId="{a08044cc-657c-cd59-ad46-5b7bae5ecae3}" radius="0.019802" x="0.233529" y="0.511423" z="1.072413"/>
+  <node id="{b5a1fc5b-bcdc-4f71-8893-296775cd6744}" partId="{a08044cc-657c-cd59-ad46-5b7bae5ecae3}" radius="0.023749" x="0.234845" y="0.524581" z="1.072413"/>
+  <node id="{b70487ec-cd7d-f4c9-0697-c7c188f91c2a}" partId="{a08044cc-657c-cd59-ad46-5b7bae5ecae3}" radius="0.033664" x="0.187404" y="0.330812" z="1.152951"/>
   <node id="{bc171da2-0807-4905-81e4-3c4e363e7e67}" partId="{a08044cc-657c-cd59-ad46-5b7bae5ecae3}" radius="0.027723" x="0.198583" y="0.400437" z="1.119927"/>
-  <node id="{c1f9e0a7-03a8-4ffa-9671-de1ab1f9b13a}" partId="{a08044cc-657c-cd59-ad46-5b7bae5ecae3}" radius="0.023762" x="0.230574" y="0.484748" z="1.086318"/>
+  <node id="{c1f9e0a7-03a8-4ffa-9671-de1ab1f9b13a}" partId="{a08044cc-657c-cd59-ad46-5b7bae5ecae3}" radius="0.023762" x="0.230574" y="0.483432" z="1.086318"/>
   <node id="{c3a7502d-f98c-4b2d-8bfb-2c2edcf185ca}" partId="{b18f2cbe-d3bf-96f4-097e-5dd564d5d174}" radius="0.005000" x="0.235968" y="0.563203" z="1.050568"/>
   <node id="{c8a448a2-3511-405a-84eb-2660ae0285c0}" partId="{941040e4-2ec2-ff76-b1f0-ef90a8e6e481}" radius="0.019802" x="0.413861" y="0.956436" z="1.209900"/>
   <node id="{cb6c504c-d6d4-453a-b3c8-8ed7b445b451}" partId="{b18f2cbe-d3bf-96f4-097e-5dd564d5d174}" radius="0.005000" x="0.238037" y="0.583667" z="1.052641"/>
@@ -89,6 +90,7 @@
   <edge boneName="LeftFoot" from="{9671f580-bc9b-4266-8b2c-57d8ab6f5f5b}" id="{520cc739-cf2a-4fbe-a8fd-b73232d18931}" partId="{5256c9b6-8077-531e-2c8c-396efe501994}" to="{e9ac0256-ba72-4a0a-a8e4-f97739774258}"/>
   <edge boneName="TailMid" from="{5804687e-e524-460c-ac1c-cf77855f67d4}" id="{54da06fb-7e4b-4927-b63b-e80d73b128a9}" partId="{a2292399-99be-a363-fba2-50724c434d1f}" to="{3a463404-df22-4231-b4bf-95ecf19e46c5}"/>
   <edge boneName="Head" from="{39f16c00-f562-4552-96c8-dc932260c11c}" id="{5f90125a-920b-4b79-a6e8-f3a3279125b7}" partId="{4909b62b-8ad1-3fa6-2ee5-e54ff525af8d}" to="{618eaada-94b4-4b4b-8de9-870a6898622e}"/>
+  <edge boneName="RightUpperArm" from="{b70487ec-cd7d-f4c9-0697-c7c188f91c2a}" id="{6769a644-0ad2-476f-8c92-7fd06ddfface}" partId="{a08044cc-657c-cd59-ad46-5b7bae5ecae3}" to="{319e4f17-b744-4fd4-ba90-3f2a47ebb98f}"/>
   <edge boneName="RightLowerArm" from="{319e4f17-b744-4fd4-ba90-3f2a47ebb98f}" id="{67c654f5-6436-45eb-8fa4-816f95cb5bec}" partId="{a08044cc-657c-cd59-ad46-5b7bae5ecae3}" to="{bc171da2-0807-4905-81e4-3c4e363e7e67}"/>
   <edge boneName="RightHand" from="{64854e32-9f53-4773-9683-50bf77bd2007}" id="{6f54f995-2348-4561-bee3-e20c3ab0bd89}" partId="{470b4117-4ecd-98c2-9183-5df21119d690}" to="{10567620-8831-4e9e-8e8b-1be803b03fa4}"/>
   <edge boneName="Head" from="{19d20eee-4fce-460d-b0ce-917636919c97}" id="{713a1f2f-f465-4d71-b1b7-ec97ebc348db}" partId="{24562efd-de7f-c873-73a7-5a6b6eeddcc1}" to="{9977ffe0-d803-4e65-880c-e6dd522a4c88}"/>
@@ -126,7 +128,7 @@
   <edge boneName="RightLowerArm" from="{c1f9e0a7-03a8-4ffa-9671-de1ab1f9b13a}" id="{e576195f-f600-4aaf-88f7-bfedc2e2bc67}" partId="{a08044cc-657c-cd59-ad46-5b7bae5ecae3}" to="{b5a1fc5b-bcdc-4f71-8893-296775cd6744}"/>
   <edge boneName="Head" from="{618eaada-94b4-4b4b-8de9-870a6898622e}" id="{eb4b890a-c27f-4dd0-82ec-b91ffab1ef57}" partId="{4909b62b-8ad1-3fa6-2ee5-e54ff525af8d}" to="{4395ed41-bd02-41fc-b4e6-b0aa068880f9}"/>
   <edge boneName="LeftFoot" from="{02b36b25-2ea0-47bb-80f3-58f55a1ad4ef}" id="{ec4d4eeb-ddb8-42f2-ba64-95b2faa1d8bc}" partId="{9f1a7a46-ea0d-e44b-fce1-2d50e9f62d2f}" to="{f28976f4-6ff9-4d1c-8b46-1c52466dbb1b}"/>
-  <edge boneName="RightUpperArm" from="{390521da-52e0-664b-97a7-129d983f30d8}" id="{f7228533-53c6-25df-6454-9d7b9a617005}" partId="{a08044cc-657c-cd59-ad46-5b7bae5ecae3}" to="{319e4f17-b744-4fd4-ba90-3f2a47ebb98f}"/>
+  <edge boneName="RightUpperArm" from="{390521da-52e0-664b-97a7-129d983f30d8}" id="{f7228533-53c6-25df-6454-9d7b9a617005}" partId="{a08044cc-657c-cd59-ad46-5b7bae5ecae3}" to="{b70487ec-cd7d-f4c9-0697-c7c188f91c2a}"/>
  </edges>
  <parts>
   <part chamfered="false" disabled="false" id="{24562efd-de7f-c873-73a7-5a6b6eeddcc1}" locked="false" rounded="true" subdived="true" visible="true" xMirrored="true"/>
@@ -135,7 +137,7 @@
   <part chamfered="false" disabled="false" id="{5256c9b6-8077-531e-2c8c-396efe501994}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
   <part chamfered="false" disabled="false" id="{5439922a-1aa5-b22f-46d2-c3a36bc859a8}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
   <part chamfered="false" disabled="false" id="{6ef7766b-cd62-d462-36b5-4599555c75ca}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
-  <part chamfered="false" deformWidth="0.840000" disabled="false" id="{941040e4-2ec2-ff76-b1f0-ef90a8e6e481}" locked="false" rounded="false" subdived="true" visible="false" xMirrored="true"/>
+  <part chamfered="false" deformWidth="0.840000" disabled="false" id="{941040e4-2ec2-ff76-b1f0-ef90a8e6e481}" locked="false" rounded="false" subdived="true" visible="true" xMirrored="true"/>
   <part chamfered="false" disabled="false" id="{98d0e3e0-7592-1dcb-2f4f-c306fe077bce}" locked="false" rounded="false" subdived="true" visible="true" xMirrored="false"/>
   <part chamfered="false" disabled="false" id="{9f1a7a46-ea0d-e44b-fce1-2d50e9f62d2f}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
   <part chamfered="false" cutFace="Hexagon" cutRotation="0.350000" deformThickness="0.670000" disabled="false" id="{a08044cc-657c-cd59-ad46-5b7bae5ecae3}" locked="false" rounded="true" subdived="false" visible="true" xMirrored="true"/>
@@ -143,7 +145,7 @@
   <part chamfered="false" disabled="false" id="{b18f2cbe-d3bf-96f4-097e-5dd564d5d174}" locked="false" rounded="false" subdived="true" visible="true" xMirrored="true"/>
   <part chamfered="false" disabled="false" id="{bb3557f0-4185-91ac-a496-93c90d736e57}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
   <part chamfered="false" cutRotation="0.260000" deformWidth="0.380000" disabled="false" id="{d0e96e05-985c-e306-465c-d633c11ce030}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
-  <part chamfered="false" cutFace="Hexagon" deformThickness="0.820000" disabled="false" id="{d8da326e-550e-9cf3-9adc-f37c1f084130}" locked="false" rounded="true" subdived="true" visible="false" xMirrored="false"/>
+  <part chamfered="false" cutFace="Hexagon" deformThickness="0.820000" disabled="false" id="{d8da326e-550e-9cf3-9adc-f37c1f084130}" locked="false" rounded="true" subdived="true" visible="true" xMirrored="false"/>
   <part chamfered="false" disabled="false" id="{fcd1e6d2-561c-7dac-7a75-bb063bf88cee}" locked="false" rounded="false" subdived="true" visible="true" xMirrored="true"/>
  </parts>
  <components>
