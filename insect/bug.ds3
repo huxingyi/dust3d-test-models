@@ -1,159 +1,159 @@
 Ó=DUST3D 1.0 xml 0000000195
 <?xml version="1.0" encoding="UTF-8"?>
 <ds3>
-    <model name="model.xml" offset="0" size="28974"/>
-    <asset name="canvas.png" offset="28974" size="784970"/>
+    <model name="model.xml" offset="0" size="29139"/>
+    <asset name="canvas.png" offset="29139" size="784970"/>
 </ds3>
 <?xml version="1.0" encoding="UTF-8"?>
 <canvas originX="0.499233" originY="0.325299" originZ="1.162760" rigType="Insect">
  <nodes>
-  <node id="{02545a9d-b2c1-489b-bf6a-9bb8cdca68e3}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" radius="0.005941" x="0.310891" y="0.847525" z="1.230690"/>
-  <node id="{0640f73c-e30a-4838-a699-f82d66b7007b}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" radius="0.009901" x="0.311398" y="0.463372" z="1.255270"/>
-  <node id="{0a187e83-b6c9-4bbc-a6f3-18f062a38aad}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" radius="0.009901" x="0.423344" y="0.297895" z="1.158030"/>
-  <node id="{0c48f39e-e441-461a-b1ec-8efd28fbeb7e}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" radius="0.008960" x="0.229140" y="0.501569" z="1.271600"/>
-  <node id="{11eafbaa-0834-459c-8458-a0ae6a286406}" partId="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" radius="0.091089" x="0.499010" y="0.284497" z="1.132382"/>
-  <node id="{15d6c01b-5f6a-4ad6-958b-0456e9de965a}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" radius="0.008960" x="0.278391" y="0.471478" z="1.258970"/>
-  <node id="{194a8e9a-94d3-4d4d-a5f3-33c0d9e2a85e}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" radius="0.013861" x="0.377836" y="0.449401" z="1.217880"/>
-  <node id="{1a2d5d7e-d205-42a0-928d-a47390bf32c9}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" radius="0.005941" x="0.269307" y="0.877228" z="1.236630"/>
-  <node id="{1be2e310-4378-4195-8746-3359647fc48c}" partId="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" radius="0.087129" x="0.499010" y="0.285699" z="1.171570"/>
-  <node id="{27c80a92-ecb8-4be5-ba27-54748727aab8}" partId="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" radius="0.067327" x="0.493069" y="0.135660" z="1.173490"/>
-  <node id="{2b1e56f9-594f-496b-9bc4-5981305ffac2}" partId="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" radius="0.051485" x="0.489109" y="0.080536" z="1.150212"/>
-  <node id="{3aa32a1f-f5fd-487e-9b41-154d7d5d2baa}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" radius="0.013861" x="0.342601" y="0.223086" z="1.238910"/>
-  <node id="{3b560ee7-253a-41f1-8a77-8ff77be20f9b}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" radius="0.008960" x="0.202506" y="0.520996" z="1.279380"/>
-  <node id="{3bba1aea-3783-40e4-aa55-43e6ac69a53a}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" radius="0.009901" x="0.312553" y="0.183747" z="1.254460"/>
-  <node id="{42ff9546-0769-4bd0-900c-72a0563c3a10}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" radius="0.009901" x="0.479208" y="0.590099" z="1.193070"/>
-  <node id="{4d6f551b-109b-4f25-861b-515b98188bc4}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" radius="0.005000" x="0.167297" y="0.556455" z="1.284540"/>
-  <node id="{5461b172-1809-4cc0-827e-cc0e4d0eded8}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" radius="0.012921" x="0.396613" y="0.274197" z="1.182450"/>
-  <node id="{579f9a9b-4ae8-4c6f-afd8-0b4e8cf17733}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" radius="0.005000" x="0.100990" y="0.893069" z="1.234650"/>
-  <node id="{58a1d7b4-3bc5-4d86-814b-3df8ca930cd1}" partId="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" radius="0.095050" x="0.502970" y="0.371626" z="1.138332"/>
-  <node id="{61d70e69-ff04-4a1f-b6a3-eef6c5cf70d2}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" radius="0.005941" x="0.227723" y="0.893069" z="1.236630"/>
-  <node id="{63c07d06-ead5-4a43-94a7-9fc7c4756f17}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" radius="0.013861" x="0.351877" y="0.455640" z="1.236560"/>
-  <node id="{672cad7a-6582-40d7-925c-bac72439ad1b}" partId="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" radius="0.091089" x="0.502970" y="0.370337" z="1.177350"/>
-  <node id="{6801dd2d-01d2-4f71-8320-da9831c8f641}" partId="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" radius="0.075247" x="0.504950" y="0.428044" z="1.181190"/>
-  <node id="{75b57620-e2fa-47d4-aa25-23a1fe34623c}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" radius="0.009901" x="0.419802" y="0.730693" z="1.200990"/>
-  <node id="{774eccca-f78b-4b1e-9ca3-40007b28fd76}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" radius="0.012921" x="0.414034" y="0.434037" z="1.186810"/>
-  <node id="{7b16775f-a085-4cc2-a529-8d30995dc6cf}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" radius="0.009901" x="0.439604" y="0.691089" z="1.197030"/>
-  <node id="{7c2f08ef-432e-4728-a806-9ae5fa9c87d3}" partId="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" radius="0.099010" x="0.500990" y="0.345330" z="1.171570"/>
-  <node id="{7c57aac8-d799-40e0-8005-94faf092437b}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" radius="0.012921" x="0.495049" y="0.554456" z="1.193070"/>
-  <node id="{7fc4f240-cbf5-4d83-9d20-bac7f0a572ac}" partId="{eb8d04ff-7a99-5910-6107-4f13510ed46e}" radius="0.009901" x="0.350521" y="0.330653" z="1.224580"/>
-  <node id="{835e43af-8d95-4fb8-87ee-6444873cbe78}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" radius="0.005941" x="0.176238" y="0.912871" z="1.240590"/>
-  <node id="{8517c319-a9b9-4d3a-9dc0-2a6a4a59d045}" partId="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" radius="0.047525" x="0.489109" y="0.087570" z="1.188890"/>
-  <node id="{85f8af12-4809-4938-b3d3-9759b62f9438}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" radius="0.013861" x="0.362907" y="0.248791" z="1.221420"/>
-  <node id="{87c5e868-d94f-4ceb-8742-ecf168e83d0c}" partId="{eb8d04ff-7a99-5910-6107-4f13510ed46e}" radius="0.005000" x="0.338640" y="0.249913" z="1.287240"/>
-  <node id="{8bbe66a8-08fa-4eaf-8a2e-de09ab895ff0}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" radius="0.005941" x="0.124752" y="0.906931" z="1.232670"/>
-  <node id="{958566f5-5081-44dd-bd6a-089c0610bd93}" partId="{0f9c80a0-4787-2ed4-ff2d-98b4c1687c8f}" radius="0.047525" x="0.510891" y="0.530693" z="1.161390"/>
-  <node id="{98f0ad5d-2fd2-4a96-9ba7-f7223f72007d}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" radius="0.005941" x="0.388119" y="0.772277" z="1.210890"/>
-  <node id="{9957bc74-244d-415a-adee-679f384c7f88}" partId="{eb8d04ff-7a99-5910-6107-4f13510ed46e}" radius="0.009901" x="0.382204" y="0.357550" z="1.196580"/>
-  <node id="{9dc3fad4-2928-413b-b8ac-58e0724b7b6e}" partId="{eb8d04ff-7a99-5910-6107-4f13510ed46e}" radius="0.009901" x="0.417847" y="0.372390" z="1.158580"/>
-  <node id="{9ed86130-fdf1-4f87-acb6-4387c4ac54d2}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" radius="0.013861" x="0.451485" y="0.653465" z="1.197030"/>
-  <node id="{9f21fb95-0eda-4c19-87c0-3e0a039f4f09}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" radius="0.013861" x="0.465347" y="0.613861" z="1.200990"/>
-  <node id="{a8f56fba-3e56-4419-9f4a-6cac4bf8a03a}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" radius="0.008960" x="0.239241" y="0.113025" z="1.292770"/>
-  <node id="{a923a6ca-fe66-41cd-ac78-a850c9fc9922}" partId="{0f9c80a0-4787-2ed4-ff2d-98b4c1687c8f}" radius="0.027723" x="0.510891" y="0.570297" z="1.185150"/>
-  <node id="{abd6701a-b9b8-42f8-81bd-c237d9143274}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" radius="0.008960" x="0.252200" y="0.487898" z="1.270370"/>
-  <node id="{b0da0b2b-f5c6-47a3-9471-f63a68a541d9}" partId="{0f9c80a0-4787-2ed4-ff2d-98b4c1687c8f}" radius="0.071287" x="0.500990" y="0.429703" z="1.151490"/>
-  <node id="{b47a5ad3-e6f8-4f61-897a-3b2b30641035}" partId="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" radius="0.071287" x="0.493069" y="0.130041" z="1.134362"/>
-  <node id="{be102035-5b9f-49f2-b3a4-5e14788fafe0}" partId="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" radius="0.087129" x="0.491089" y="0.205289" z="1.132382"/>
-  <node id="{c64cacbf-de46-4a12-9b55-2d6e63232928}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" radius="0.005941" x="0.146535" y="0.916832" z="1.236630"/>
-  <node id="{c6c940cc-3e7a-47fd-b7f5-63d67d92b539}" partId="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" radius="0.022460" x="0.487129" y="0.019177" z="1.215425"/>
-  <node id="{c9796638-5b85-4326-b90f-a5799f9a0ae2}" partId="{eb8d04ff-7a99-5910-6107-4f13510ed46e}" radius="0.005941" x="0.342600" y="0.291474" z="1.254800"/>
-  <node id="{cd1b9a3c-a336-475e-b326-df3295c6b41d}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" radius="0.009901" x="0.445030" y="0.423515" z="1.167340"/>
-  <node id="{ce44bebe-29f9-4bd1-a00d-a0d1c29ffa99}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" radius="0.005941" x="0.344555" y="0.811881" z="1.230690"/>
-  <node id="{d6e5a5b2-756d-4069-8b9c-6f74a08ebaa1}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" radius="0.008960" x="0.267816" y="0.117384" z="1.285290"/>
-  <node id="{e1c7d2b5-c119-48e2-ae03-2a62f320d0d1}" partId="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" radius="0.079208" x="0.504950" y="0.431031" z="1.142292"/>
-  <node id="{e1fbe044-8760-454b-95cc-09a0b6203fd3}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" radius="0.005000" x="0.174329" y="0.086843" z="1.330780"/>
-  <node id="{e6d07594-1f71-435b-ab9c-b66cf70de02d}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" radius="0.008960" x="0.207869" y="0.090489" z="1.320350"/>
-  <node id="{e83eab2b-d59f-4785-bb6b-e55c016387da}" partId="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" radius="0.023762" x="0.487129" y="0.035634" z="1.213890"/>
-  <node id="{f24014fe-db83-4943-b473-47cc46daa29f}" partId="{0f9c80a0-4787-2ed4-ff2d-98b4c1687c8f}" radius="0.063366" x="0.504951" y="0.489109" z="1.151490"/>
-  <node id="{f5a8d9eb-4994-4486-917f-759ec7417b9e}" partId="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" radius="0.083168" x="0.491089" y="0.208756" z="1.171570"/>
-  <node id="{f89211b4-fd8b-41ad-ab8e-e21d2ed94b0c}" partId="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" radius="0.102970" x="0.500990" y="0.345883" z="1.132382"/>
-  <node id="{fa13c511-1949-4c7c-b327-ba2acacd67c5}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" radius="0.008960" x="0.288574" y="0.134845" z="1.270990"/>
+  <node id="{02545a9d-b2c1-489b-bf6a-9bb8cdca68e3}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" radius="0.005941" x="0.296417" y="0.374390" z="0.658895"/>
+  <node id="{0640f73c-e30a-4838-a699-f82d66b7007b}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" radius="0.009901" x="0.311398" y="0.434617" z="1.041245"/>
+  <node id="{0a187e83-b6c9-4bbc-a6f3-18f062a38aad}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" radius="0.009901" x="0.423344" y="0.340280" z="1.208395"/>
+  <node id="{0c48f39e-e441-461a-b1ec-8efd28fbeb7e}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" radius="0.008960" x="0.229140" y="0.450278" z="1.002769"/>
+  <node id="{11eafbaa-0834-459c-8458-a0ae6a286406}" partId="{f80608f1-6103-58da-b2f7-327a64d55370}" radius="0.091089" x="0.499010" y="0.296449" z="1.168289"/>
+  <node id="{15d6c01b-5f6a-4ad6-958b-0456e9de965a}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" radius="0.008960" x="0.278391" y="0.438176" z="1.033075"/>
+  <node id="{194a8e9a-94d3-4d4d-a5f3-33c0d9e2a85e}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" radius="0.013861" x="0.377836" y="0.397476" z="1.055866"/>
+  <node id="{1a2d5d7e-d205-42a0-928d-a47390bf32c9}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" radius="0.005941" x="0.254833" y="0.379811" z="0.629092"/>
+  <node id="{1be2e310-4378-4195-8746-3359647fc48c}" partId="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" radius="0.087129" x="0.499010" y="0.334293" z="1.178246"/>
+  <node id="{27c80a92-ecb8-4be5-ba27-54748727aab8}" partId="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" radius="0.067327" x="0.493069" y="0.338832" z="1.328230"/>
+  <node id="{2b1e56f9-594f-496b-9bc4-5981305ffac2}" partId="{f80608f1-6103-58da-b2f7-327a64d55370}" radius="0.051485" x="0.489109" y="0.317836" z="1.371908"/>
+  <node id="{3aa32a1f-f5fd-487e-9b41-154d7d5d2baa}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" radius="0.013861" x="0.342601" y="0.422454" z="1.281781"/>
+  <node id="{3b560ee7-253a-41f1-8a77-8ff77be20f9b}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" radius="0.008960" x="0.202506" y="0.457718" z="0.983209"/>
+  <node id="{3bba1aea-3783-40e4-aa55-43e6ac69a53a}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" radius="0.009901" x="0.312553" y="0.438688" z="1.320842"/>
+  <node id="{42ff9546-0769-4bd0-900c-72a0563c3a10}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" radius="0.009901" x="0.464734" y="0.341267" z="0.916938"/>
+  <node id="{4d6f551b-109b-4f25-861b-515b98188bc4}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" radius="0.005000" x="0.167297" y="0.462258" z="0.947666"/>
+  <node id="{5461b172-1809-4cc0-827e-cc0e4d0eded8}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" radius="0.012921" x="0.396613" y="0.365110" z="1.231662"/>
+  <node id="{579f9a9b-4ae8-4c6f-afd8-0b4e8cf17733}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" radius="0.005000" x="0.086516" y="0.377554" z="0.613288"/>
+  <node id="{58a1d7b4-3bc5-4d86-814b-3df8ca930cd1}" partId="{f80608f1-6103-58da-b2f7-327a64d55370}" radius="0.095050" x="0.502970" y="0.300877" z="1.081068"/>
+  <node id="{61d70e69-ff04-4a1f-b6a3-eef6c5cf70d2}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" radius="0.005941" x="0.213249" y="0.379534" z="0.613254"/>
+  <node id="{63c07d06-ead5-4a43-94a7-9fc7c4756f17}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" radius="0.013861" x="0.351877" y="0.416045" z="1.049302"/>
+  <node id="{672cad7a-6582-40d7-925c-bac72439ad1b}" partId="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" radius="0.091089" x="0.502970" y="0.338596" z="1.093520"/>
+  <node id="{6801dd2d-01d2-4f71-8320-da9831c8f641}" partId="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" radius="0.075247" x="0.504950" y="0.341427" z="1.035754"/>
+  <node id="{75b57620-e2fa-47d4-aa25-23a1fe34623c}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" radius="0.009901" x="0.405328" y="0.346733" z="0.776227"/>
+  <node id="{774eccca-f78b-4b1e-9ca3-40007b28fd76}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" radius="0.012921" x="0.414034" y="0.366680" z="1.071770"/>
+  <node id="{7b16775f-a085-4cc2-a529-8d30995dc6cf}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" radius="0.009901" x="0.425130" y="0.343464" z="0.815894"/>
+  <node id="{7c2f08ef-432e-4728-a806-9ae5fa9c87d3}" partId="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" radius="0.099010" x="0.500990" y="0.333253" z="1.118623"/>
+  <node id="{7c57aac8-d799-40e0-8005-94faf092437b}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" radius="0.012921" x="0.480575" y="0.341890" z="0.952576"/>
+  <node id="{7fc4f240-cbf5-4d83-9d20-bac7f0a572ac}" partId="{36cc9956-ce92-b667-9ca5-e74b070e6fb0}" radius="0.009901" x="0.350521" y="0.406248" z="1.174479"/>
+  <node id="{835e43af-8d95-4fb8-87ee-6444873cbe78}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" radius="0.005941" x="0.161764" y="0.383147" z="0.593385"/>
+  <node id="{8517c319-a9b9-4d3a-9dc0-2a6a4a59d045}" partId="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" radius="0.047525" x="0.489109" y="0.355069" z="1.376043"/>
+  <node id="{85f8af12-4809-4938-b3d3-9759b62f9438}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" radius="0.013861" x="0.362907" y="0.404518" z="1.256385"/>
+  <node id="{87c5e868-d94f-4ceb-8742-ecf168e83d0c}" partId="{36cc9956-ce92-b667-9ca5-e74b070e6fb0}" radius="0.005000" x="0.338640" y="0.470308" z="1.254114"/>
+  <node id="{8bbe66a8-08fa-4eaf-8a2e-de09ab895ff0}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" radius="0.005941" x="0.110278" y="0.375332" z="0.599463"/>
+  <node id="{958566f5-5081-44dd-bd6a-089c0610bd93}" partId="{ced233a4-cece-48cc-96c6-040b3a0802e2}" radius="0.047525" x="0.510891" y="0.339577" z="0.975573"/>
+  <node id="{98f0ad5d-2fd2-4a96-9ba7-f7223f72007d}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" radius="0.005941" x="0.373645" y="0.355906" z="0.734477"/>
+  <node id="{9957bc74-244d-415a-adee-679f384c7f88}" partId="{36cc9956-ce92-b667-9ca5-e74b070e6fb0}" radius="0.009901" x="0.382204" y="0.377784" z="1.148076"/>
+  <node id="{9dc3fad4-2928-413b-b8ac-58e0724b7b6e}" partId="{36cc9956-ce92-b667-9ca5-e74b070e6fb0}" radius="0.009901" x="0.417847" y="0.339530" z="1.133901"/>
+  <node id="{9ed86130-fdf1-4f87-acb6-4387c4ac54d2}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" radius="0.013861" x="0.437011" y="0.344121" z="0.853512"/>
+  <node id="{9f21fb95-0eda-4c19-87c0-3e0a039f4f09}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" radius="0.013861" x="0.450873" y="0.348772" z="0.893042"/>
+  <node id="{a8f56fba-3e56-4419-9f4a-6cac4bf8a03a}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" radius="0.008960" x="0.239241" y="0.478226" z="1.390885"/>
+  <node id="{a923a6ca-fe66-41cd-ac78-a850c9fc9922}" partId="{ced233a4-cece-48cc-96c6-040b3a0802e2}" radius="0.027723" x="0.510891" y="0.362642" z="0.935560"/>
+  <node id="{abd6701a-b9b8-42f8-81bd-c237d9143274}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" radius="0.008960" x="0.252200" y="0.449288" z="1.016460"/>
+  <node id="{b0da0b2b-f5c6-47a3-9471-f63a68a541d9}" partId="{ced233a4-cece-48cc-96c6-040b3a0802e2}" radius="0.071287" x="0.500990" y="0.331441" z="1.076721"/>
+  <node id="{b47a5ad3-e6f8-4f61-897a-3b2b30641035}" partId="{f80608f1-6103-58da-b2f7-327a64d55370}" radius="0.071287" x="0.493069" y="0.299808" z="1.321371"/>
+  <node id="{be102035-5b9f-49f2-b3a4-5e14788fafe0}" partId="{f80608f1-6103-58da-b2f7-327a64d55370}" radius="0.087129" x="0.491089" y="0.297831" z="1.247485"/>
+  <node id="{c64cacbf-de46-4a12-9b55-2d6e63232928}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" radius="0.005941" x="0.132061" y="0.379119" z="0.589495"/>
+  <node id="{c6c940cc-3e7a-47fd-b7f5-63d67d92b539}" partId="{f80608f1-6103-58da-b2f7-327a64d55370}" radius="0.022460" x="0.487129" y="0.384110" z="1.432119"/>
+  <node id="{c9796638-5b85-4326-b90f-a5799f9a0ae2}" partId="{36cc9956-ce92-b667-9ca5-e74b070e6fb0}" radius="0.005941" x="0.342600" y="0.437147" z="1.213125"/>
+  <node id="{cd1b9a3c-a336-475e-b326-df3295c6b41d}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" radius="0.009901" x="0.445030" y="0.347396" z="1.082631"/>
+  <node id="{ce44bebe-29f9-4bd1-a00d-a0d1c29ffa99}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" radius="0.005941" x="0.330081" y="0.375011" z="0.694533"/>
+  <node id="{d6e5a5b2-756d-4069-8b9c-6f74a08ebaa1}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" radius="0.008960" x="0.267816" y="0.470672" z="1.386657"/>
+  <node id="{e1c7d2b5-c119-48e2-ae03-2a62f320d0d1}" partId="{f80608f1-6103-58da-b2f7-327a64d55370}" radius="0.079208" x="0.504950" y="0.303800" z="1.021604"/>
+  <node id="{e1fbe044-8760-454b-95cc-09a0b6203fd3}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" radius="0.005000" x="0.174329" y="0.516687" z="1.416399"/>
+  <node id="{e6d07594-1f71-435b-ab9c-b66cf70de02d}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" radius="0.008960" x="0.207869" y="0.506196" z="1.412936"/>
+  <node id="{e83eab2b-d59f-4785-bb6b-e55c016387da}" partId="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" radius="0.023762" x="0.487129" y="0.380971" z="1.427535"/>
+  <node id="{f24014fe-db83-4943-b473-47cc46daa29f}" partId="{ced233a4-cece-48cc-96c6-040b3a0802e2}" radius="0.063366" x="0.504951" y="0.330403" z="1.017323"/>
+  <node id="{f5a8d9eb-4994-4486-917f-759ec7417b9e}" partId="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" radius="0.083168" x="0.491089" y="0.335637" z="1.255178"/>
+  <node id="{f89211b4-fd8b-41ad-ab8e-e21d2ed94b0c}" partId="{f80608f1-6103-58da-b2f7-327a64d55370}" radius="0.102970" x="0.500990" y="0.294062" z="1.106912"/>
+  <node id="{fa13c511-1949-4c7c-b327-ba2acacd67c5}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" radius="0.008960" x="0.288574" y="0.456069" z="1.369448"/>
  </nodes>
  <edges>
-  <edge boneName="Thorax" from="{672cad7a-6582-40d7-925c-bac72439ad1b}" id="{07b7a83b-f896-4f10-99c6-f030bacaf747}" partId="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" to="{6801dd2d-01d2-4f71-8320-da9831c8f641}"/>
-  <edge boneName="Head" from="{835e43af-8d95-4fb8-87ee-6444873cbe78}" id="{0ee0b058-1387-4cf9-9c1d-735d7cd0dc3e}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" to="{c64cacbf-de46-4a12-9b55-2d6e63232928}"/>
-  <edge boneName="BackRightFemur" from="{3aa32a1f-f5fd-487e-9b41-154d7d5d2baa}" id="{0f070831-bfad-4ff2-ac8d-7fb3952a6451}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" to="{3bba1aea-3783-40e4-aa55-43e6ac69a53a}"/>
-  <edge boneName="MiddleRightCoxa" from="{9dc3fad4-2928-413b-b8ac-58e0724b7b6e}" id="{1e15b5a1-50b9-4f47-9059-438716e823ab}" partId="{eb8d04ff-7a99-5910-6107-4f13510ed46e}" to="{9957bc74-244d-415a-adee-679f384c7f88}"/>
-  <edge boneName="Head" from="{98f0ad5d-2fd2-4a96-9ba7-f7223f72007d}" id="{2550ccbe-8ebd-4c5d-a75a-452aabff9249}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" to="{ce44bebe-29f9-4bd1-a00d-a0d1c29ffa99}"/>
-  <edge boneName="Thorax" from="{f89211b4-fd8b-41ad-ab8e-e21d2ed94b0c}" id="{25c74334-fe96-4c42-852f-a5b614ec387c}" partId="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" to="{58a1d7b4-3bc5-4d86-814b-3df8ca930cd1}"/>
-  <edge boneName="MiddleRightTibia" from="{7fc4f240-cbf5-4d83-9d20-bac7f0a572ac}" id="{2e189df1-d9b0-45cb-97d5-9237c0ab1c73}" partId="{eb8d04ff-7a99-5910-6107-4f13510ed46e}" to="{c9796638-5b85-4326-b90f-a5799f9a0ae2}"/>
-  <edge boneName="Abdomen" from="{2b1e56f9-594f-496b-9bc4-5981305ffac2}" id="{34c5e0f1-223a-43b0-828b-bd0ae0fd6ed3}" partId="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" to="{b47a5ad3-e6f8-4f61-897a-3b2b30641035}"/>
-  <edge boneName="BackRightTibia" from="{fa13c511-1949-4c7c-b327-ba2acacd67c5}" id="{36871901-c19b-4e31-bc16-823fc97d63e0}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" to="{d6e5a5b2-756d-4069-8b9c-6f74a08ebaa1}"/>
-  <edge boneName="Thorax" from="{be102035-5b9f-49f2-b3a4-5e14788fafe0}" id="{385b0c72-ae3d-4df2-9759-187b061279cf}" partId="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" to="{11eafbaa-0834-459c-8458-a0ae6a286406}"/>
-  <edge boneName="Thorax" from="{58a1d7b4-3bc5-4d86-814b-3df8ca930cd1}" id="{3b40cb85-f6f6-475a-a960-242e8131154a}" partId="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" to="{e1c7d2b5-c119-48e2-ae03-2a62f320d0d1}"/>
-  <edge boneName="Head" from="{7b16775f-a085-4cc2-a529-8d30995dc6cf}" id="{4bb10910-0f57-436a-8f8f-f1babad0a7b1}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" to="{75b57620-e2fa-47d4-aa25-23a1fe34623c}"/>
-  <edge boneName="Thorax" from="{11eafbaa-0834-459c-8458-a0ae6a286406}" id="{4bbb7e6f-4b3d-466d-a377-75665214eaa5}" partId="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" to="{f89211b4-fd8b-41ad-ab8e-e21d2ed94b0c}"/>
-  <edge boneName="MiddleRightFemur" from="{9957bc74-244d-415a-adee-679f384c7f88}" id="{4e3fd48c-84ed-4f6a-90a7-2b79a9f137af}" partId="{eb8d04ff-7a99-5910-6107-4f13510ed46e}" to="{7fc4f240-cbf5-4d83-9d20-bac7f0a572ac}"/>
-  <edge boneName="Head" from="{42ff9546-0769-4bd0-900c-72a0563c3a10}" id="{5188899f-641a-4583-9bb8-8d946d4d9413}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" to="{9f21fb95-0eda-4c19-87c0-3e0a039f4f09}"/>
-  <edge boneName="BackRightCoxa" from="{0a187e83-b6c9-4bbc-a6f3-18f062a38aad}" id="{51a3ff47-1f4d-46e7-bfc2-b7ba8fdb460a}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" to="{5461b172-1809-4cc0-827e-cc0e4d0eded8}"/>
-  <edge boneName="Head" from="{ce44bebe-29f9-4bd1-a00d-a0d1c29ffa99}" id="{52ad801e-5291-49f2-b3d8-1f9f7817235b}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" to="{02545a9d-b2c1-489b-bf6a-9bb8cdca68e3}"/>
-  <edge boneName="MiddleRightTibia" from="{c9796638-5b85-4326-b90f-a5799f9a0ae2}" id="{5ab31d0f-4be0-4f03-96f9-b01695819860}" partId="{eb8d04ff-7a99-5910-6107-4f13510ed46e}" to="{87c5e868-d94f-4ceb-8742-ecf168e83d0c}"/>
-  <edge boneName="Thorax" from="{1be2e310-4378-4195-8746-3359647fc48c}" id="{5f3872a6-4722-4196-8c13-a4c47aa84860}" partId="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" to="{7c2f08ef-432e-4728-a806-9ae5fa9c87d3}"/>
-  <edge boneName="FrontRightFemur" from="{0640f73c-e30a-4838-a699-f82d66b7007b}" id="{62b99ae4-3402-44c6-affb-2c2e477861ff}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" to="{15d6c01b-5f6a-4ad6-958b-0456e9de965a}"/>
-  <edge boneName="FrontRightFemur" from="{15d6c01b-5f6a-4ad6-958b-0456e9de965a}" id="{64294199-d44e-4c85-95b4-f39b21ec8619}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" to="{abd6701a-b9b8-42f8-81bd-c237d9143274}"/>
-  <edge boneName="FrontRightTibia" from="{abd6701a-b9b8-42f8-81bd-c237d9143274}" id="{704bf0ee-ff17-4cb4-83ed-2b8c1b66d758}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" to="{0c48f39e-e441-461a-b1ec-8efd28fbeb7e}"/>
-  <edge boneName="BackRightTibia" from="{a8f56fba-3e56-4419-9f4a-6cac4bf8a03a}" id="{79368ee2-7be3-474a-9be2-58b5d995a068}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" to="{e6d07594-1f71-435b-ab9c-b66cf70de02d}"/>
-  <edge boneName="Head" from="{9f21fb95-0eda-4c19-87c0-3e0a039f4f09}" id="{7c7517f1-9b1b-4314-887f-40aa76064d07}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" to="{9ed86130-fdf1-4f87-acb6-4387c4ac54d2}"/>
-  <edge boneName="BackRightTibia" from="{d6e5a5b2-756d-4069-8b9c-6f74a08ebaa1}" id="{7da4bfdc-5d00-478a-8656-b199a8da7024}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" to="{a8f56fba-3e56-4419-9f4a-6cac4bf8a03a}"/>
-  <edge boneName="FrontRightFemur" from="{194a8e9a-94d3-4d4d-a5f3-33c0d9e2a85e}" id="{80d3dc1c-10f8-4786-8717-26c1b7e79a41}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" to="{63c07d06-ead5-4a43-94a7-9fc7c4756f17}"/>
-  <edge boneName="Thorax" from="{b0da0b2b-f5c6-47a3-9471-f63a68a541d9}" id="{8116ceb6-9e88-4cbc-8797-a628c8c378e6}" partId="{0f9c80a0-4787-2ed4-ff2d-98b4c1687c8f}" to="{f24014fe-db83-4943-b473-47cc46daa29f}"/>
-  <edge boneName="BackRightFemur" from="{3bba1aea-3783-40e4-aa55-43e6ac69a53a}" id="{86910f0d-45bc-4025-9220-c2285e3c2405}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" to="{fa13c511-1949-4c7c-b327-ba2acacd67c5}"/>
-  <edge boneName="Head" from="{7c57aac8-d799-40e0-8005-94faf092437b}" id="{869f187d-7051-44c7-9a29-7f42175735b7}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" to="{42ff9546-0769-4bd0-900c-72a0563c3a10}"/>
-  <edge boneName="Abdomen" from="{c6c940cc-3e7a-47fd-b7f5-63d67d92b539}" id="{8c6e3798-5ad2-468e-a437-c2201f0413f4}" partId="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" to="{2b1e56f9-594f-496b-9bc4-5981305ffac2}"/>
-  <edge boneName="Thorax" from="{7c2f08ef-432e-4728-a806-9ae5fa9c87d3}" id="{91b657b3-f127-4cf5-bafb-8dd88aedcdc0}" partId="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" to="{672cad7a-6582-40d7-925c-bac72439ad1b}"/>
-  <edge boneName="Abdomen" from="{8517c319-a9b9-4d3a-9dc0-2a6a4a59d045}" id="{9ca05004-5930-48e8-95a2-3d51b478f1bf}" partId="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" to="{27c80a92-ecb8-4be5-ba27-54748727aab8}"/>
-  <edge boneName="Head" from="{75b57620-e2fa-47d4-aa25-23a1fe34623c}" id="{a8f3b474-1c1d-415b-b5b2-9d6c0fd43549}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" to="{98f0ad5d-2fd2-4a96-9ba7-f7223f72007d}"/>
-  <edge boneName="FrontRightTibia" from="{0c48f39e-e441-461a-b1ec-8efd28fbeb7e}" id="{b4049f7f-700f-4332-9637-07a22a6ce04b}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" to="{3b560ee7-253a-41f1-8a77-8ff77be20f9b}"/>
-  <edge boneName="Abdomen" from="{27c80a92-ecb8-4be5-ba27-54748727aab8}" id="{b6b3ebda-7d6d-40ab-811d-48bc5923185e}" partId="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" to="{f5a8d9eb-4994-4486-917f-759ec7417b9e}"/>
-  <edge boneName="FrontRightCoxa" from="{cd1b9a3c-a336-475e-b326-df3295c6b41d}" id="{be0076da-4066-4ead-9b32-8ee007e38a33}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" to="{774eccca-f78b-4b1e-9ca3-40007b28fd76}"/>
-  <edge boneName="Head" from="{f24014fe-db83-4943-b473-47cc46daa29f}" id="{bf34b39d-5975-4980-b180-5b9b4c3857d1}" partId="{0f9c80a0-4787-2ed4-ff2d-98b4c1687c8f}" to="{958566f5-5081-44dd-bd6a-089c0610bd93}"/>
-  <edge boneName="BackRightFemur" from="{85f8af12-4809-4938-b3d3-9759b62f9438}" id="{bf3a66c5-3ae6-425b-ad6d-e05086ee5368}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" to="{3aa32a1f-f5fd-487e-9b41-154d7d5d2baa}"/>
-  <edge boneName="BackRightFemur" from="{5461b172-1809-4cc0-827e-cc0e4d0eded8}" id="{c2359981-8eb1-45de-a888-39706cadcb1a}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" to="{85f8af12-4809-4938-b3d3-9759b62f9438}"/>
-  <edge boneName="Head" from="{8bbe66a8-08fa-4eaf-8a2e-de09ab895ff0}" id="{c5f1d0aa-660c-45cf-b4da-fee2a7154a24}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" to="{579f9a9b-4ae8-4c6f-afd8-0b4e8cf17733}"/>
-  <edge boneName="Head" from="{1a2d5d7e-d205-42a0-928d-a47390bf32c9}" id="{d05dbf70-abfd-4e30-8482-181ec5dc740d}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" to="{61d70e69-ff04-4a1f-b6a3-eef6c5cf70d2}"/>
-  <edge boneName="FrontRightTibia" from="{3b560ee7-253a-41f1-8a77-8ff77be20f9b}" id="{d7e2a2e3-0f25-4cf8-86c7-fe9c4e4f90c2}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" to="{4d6f551b-109b-4f25-861b-515b98188bc4}"/>
-  <edge boneName="FrontRightFemur" from="{63c07d06-ead5-4a43-94a7-9fc7c4756f17}" id="{dcc0ce2b-5d5c-4589-8ba0-5fa7513eda74}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" to="{0640f73c-e30a-4838-a699-f82d66b7007b}"/>
-  <edge boneName="Thorax" from="{f5a8d9eb-4994-4486-917f-759ec7417b9e}" id="{e21648b0-5064-48a4-837f-db061162427a}" partId="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" to="{1be2e310-4378-4195-8746-3359647fc48c}"/>
-  <edge boneName="BackRightTibia" from="{e6d07594-1f71-435b-ab9c-b66cf70de02d}" id="{e21a90a1-1cde-4196-882f-db5cd8424e65}" partId="{bd04c671-cfb8-1019-7e75-83d57fb50311}" to="{e1fbe044-8760-454b-95cc-09a0b6203fd3}"/>
-  <edge boneName="Head" from="{61d70e69-ff04-4a1f-b6a3-eef6c5cf70d2}" id="{e2f085e2-4892-4d1b-9e94-7a5c726b8809}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" to="{835e43af-8d95-4fb8-87ee-6444873cbe78}"/>
-  <edge boneName="Head" from="{9ed86130-fdf1-4f87-acb6-4387c4ac54d2}" id="{e64eb5bb-3f5b-4a82-b08e-345e96ecc5d1}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" to="{7b16775f-a085-4cc2-a529-8d30995dc6cf}"/>
-  <edge boneName="Abdomen" from="{e83eab2b-d59f-4785-bb6b-e55c016387da}" id="{e686295a-92c7-4dba-a5ba-0b2bb871cdb8}" partId="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" to="{8517c319-a9b9-4d3a-9dc0-2a6a4a59d045}"/>
-  <edge boneName="Abdomen" from="{b47a5ad3-e6f8-4f61-897a-3b2b30641035}" id="{e922d7c7-3e41-4727-ba9d-63a04fc78290}" partId="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" to="{be102035-5b9f-49f2-b3a4-5e14788fafe0}"/>
-  <edge boneName="Head" from="{02545a9d-b2c1-489b-bf6a-9bb8cdca68e3}" id="{f02e737f-4379-4bb3-b236-f6fb06cbe305}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" to="{1a2d5d7e-d205-42a0-928d-a47390bf32c9}"/>
-  <edge boneName="Head" from="{c64cacbf-de46-4a12-9b55-2d6e63232928}" id="{f8742656-02a9-4fa0-82dc-9a6c2445e6fa}" partId="{679c76b0-cf5f-9852-66d8-3c811d86b935}" to="{8bbe66a8-08fa-4eaf-8a2e-de09ab895ff0}"/>
-  <edge boneName="FrontRightCoxa" from="{774eccca-f78b-4b1e-9ca3-40007b28fd76}" id="{f8936a27-f27f-42e0-bc7a-da788ebf9637}" partId="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" to="{194a8e9a-94d3-4d4d-a5f3-33c0d9e2a85e}"/>
-  <edge boneName="Head" from="{958566f5-5081-44dd-bd6a-089c0610bd93}" id="{fb73bb74-344d-41cc-adda-57d47a6ab906}" partId="{0f9c80a0-4787-2ed4-ff2d-98b4c1687c8f}" to="{a923a6ca-fe66-41cd-ac78-a850c9fc9922}"/>
+  <edge boneName="Thorax" from="{672cad7a-6582-40d7-925c-bac72439ad1b}" id="{07b7a83b-f896-4f10-99c6-f030bacaf747}" partId="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" to="{6801dd2d-01d2-4f71-8320-da9831c8f641}"/>
+  <edge boneName="Head" from="{835e43af-8d95-4fb8-87ee-6444873cbe78}" id="{0ee0b058-1387-4cf9-9c1d-735d7cd0dc3e}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" to="{c64cacbf-de46-4a12-9b55-2d6e63232928}"/>
+  <edge boneName="BackRightFemur" from="{3aa32a1f-f5fd-487e-9b41-154d7d5d2baa}" id="{0f070831-bfad-4ff2-ac8d-7fb3952a6451}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" to="{3bba1aea-3783-40e4-aa55-43e6ac69a53a}"/>
+  <edge boneName="MiddleRightCoxa" from="{9dc3fad4-2928-413b-b8ac-58e0724b7b6e}" id="{1e15b5a1-50b9-4f47-9059-438716e823ab}" partId="{36cc9956-ce92-b667-9ca5-e74b070e6fb0}" to="{9957bc74-244d-415a-adee-679f384c7f88}"/>
+  <edge boneName="Head" from="{98f0ad5d-2fd2-4a96-9ba7-f7223f72007d}" id="{2550ccbe-8ebd-4c5d-a75a-452aabff9249}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" to="{ce44bebe-29f9-4bd1-a00d-a0d1c29ffa99}"/>
+  <edge boneName="Thorax" from="{f89211b4-fd8b-41ad-ab8e-e21d2ed94b0c}" id="{25c74334-fe96-4c42-852f-a5b614ec387c}" partId="{f80608f1-6103-58da-b2f7-327a64d55370}" to="{58a1d7b4-3bc5-4d86-814b-3df8ca930cd1}"/>
+  <edge boneName="MiddleRightTibia" from="{7fc4f240-cbf5-4d83-9d20-bac7f0a572ac}" id="{2e189df1-d9b0-45cb-97d5-9237c0ab1c73}" partId="{36cc9956-ce92-b667-9ca5-e74b070e6fb0}" to="{c9796638-5b85-4326-b90f-a5799f9a0ae2}"/>
+  <edge boneName="Abdomen" from="{2b1e56f9-594f-496b-9bc4-5981305ffac2}" id="{34c5e0f1-223a-43b0-828b-bd0ae0fd6ed3}" partId="{f80608f1-6103-58da-b2f7-327a64d55370}" to="{b47a5ad3-e6f8-4f61-897a-3b2b30641035}"/>
+  <edge boneName="BackRightTibia" from="{fa13c511-1949-4c7c-b327-ba2acacd67c5}" id="{36871901-c19b-4e31-bc16-823fc97d63e0}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" to="{d6e5a5b2-756d-4069-8b9c-6f74a08ebaa1}"/>
+  <edge boneName="Thorax" from="{be102035-5b9f-49f2-b3a4-5e14788fafe0}" id="{385b0c72-ae3d-4df2-9759-187b061279cf}" partId="{f80608f1-6103-58da-b2f7-327a64d55370}" to="{11eafbaa-0834-459c-8458-a0ae6a286406}"/>
+  <edge boneName="Thorax" from="{58a1d7b4-3bc5-4d86-814b-3df8ca930cd1}" id="{3b40cb85-f6f6-475a-a960-242e8131154a}" partId="{f80608f1-6103-58da-b2f7-327a64d55370}" to="{e1c7d2b5-c119-48e2-ae03-2a62f320d0d1}"/>
+  <edge boneName="Head" from="{7b16775f-a085-4cc2-a529-8d30995dc6cf}" id="{4bb10910-0f57-436a-8f8f-f1babad0a7b1}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" to="{75b57620-e2fa-47d4-aa25-23a1fe34623c}"/>
+  <edge boneName="Thorax" from="{11eafbaa-0834-459c-8458-a0ae6a286406}" id="{4bbb7e6f-4b3d-466d-a377-75665214eaa5}" partId="{f80608f1-6103-58da-b2f7-327a64d55370}" to="{f89211b4-fd8b-41ad-ab8e-e21d2ed94b0c}"/>
+  <edge boneName="MiddleRightFemur" from="{9957bc74-244d-415a-adee-679f384c7f88}" id="{4e3fd48c-84ed-4f6a-90a7-2b79a9f137af}" partId="{36cc9956-ce92-b667-9ca5-e74b070e6fb0}" to="{7fc4f240-cbf5-4d83-9d20-bac7f0a572ac}"/>
+  <edge boneName="Head" from="{42ff9546-0769-4bd0-900c-72a0563c3a10}" id="{5188899f-641a-4583-9bb8-8d946d4d9413}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" to="{9f21fb95-0eda-4c19-87c0-3e0a039f4f09}"/>
+  <edge boneName="BackRightCoxa" from="{0a187e83-b6c9-4bbc-a6f3-18f062a38aad}" id="{51a3ff47-1f4d-46e7-bfc2-b7ba8fdb460a}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" to="{5461b172-1809-4cc0-827e-cc0e4d0eded8}"/>
+  <edge boneName="Head" from="{ce44bebe-29f9-4bd1-a00d-a0d1c29ffa99}" id="{52ad801e-5291-49f2-b3d8-1f9f7817235b}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" to="{02545a9d-b2c1-489b-bf6a-9bb8cdca68e3}"/>
+  <edge boneName="MiddleRightTibia" from="{c9796638-5b85-4326-b90f-a5799f9a0ae2}" id="{5ab31d0f-4be0-4f03-96f9-b01695819860}" partId="{36cc9956-ce92-b667-9ca5-e74b070e6fb0}" to="{87c5e868-d94f-4ceb-8742-ecf168e83d0c}"/>
+  <edge boneName="Thorax" from="{1be2e310-4378-4195-8746-3359647fc48c}" id="{5f3872a6-4722-4196-8c13-a4c47aa84860}" partId="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" to="{7c2f08ef-432e-4728-a806-9ae5fa9c87d3}"/>
+  <edge boneName="FrontRightFemur" from="{0640f73c-e30a-4838-a699-f82d66b7007b}" id="{62b99ae4-3402-44c6-affb-2c2e477861ff}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" to="{15d6c01b-5f6a-4ad6-958b-0456e9de965a}"/>
+  <edge boneName="FrontRightFemur" from="{15d6c01b-5f6a-4ad6-958b-0456e9de965a}" id="{64294199-d44e-4c85-95b4-f39b21ec8619}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" to="{abd6701a-b9b8-42f8-81bd-c237d9143274}"/>
+  <edge boneName="FrontRightTibia" from="{abd6701a-b9b8-42f8-81bd-c237d9143274}" id="{704bf0ee-ff17-4cb4-83ed-2b8c1b66d758}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" to="{0c48f39e-e441-461a-b1ec-8efd28fbeb7e}"/>
+  <edge boneName="BackRightTibia" from="{a8f56fba-3e56-4419-9f4a-6cac4bf8a03a}" id="{79368ee2-7be3-474a-9be2-58b5d995a068}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" to="{e6d07594-1f71-435b-ab9c-b66cf70de02d}"/>
+  <edge boneName="Head" from="{9f21fb95-0eda-4c19-87c0-3e0a039f4f09}" id="{7c7517f1-9b1b-4314-887f-40aa76064d07}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" to="{9ed86130-fdf1-4f87-acb6-4387c4ac54d2}"/>
+  <edge boneName="BackRightTibia" from="{d6e5a5b2-756d-4069-8b9c-6f74a08ebaa1}" id="{7da4bfdc-5d00-478a-8656-b199a8da7024}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" to="{a8f56fba-3e56-4419-9f4a-6cac4bf8a03a}"/>
+  <edge boneName="FrontRightFemur" from="{194a8e9a-94d3-4d4d-a5f3-33c0d9e2a85e}" id="{80d3dc1c-10f8-4786-8717-26c1b7e79a41}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" to="{63c07d06-ead5-4a43-94a7-9fc7c4756f17}"/>
+  <edge boneName="Thorax" from="{b0da0b2b-f5c6-47a3-9471-f63a68a541d9}" id="{8116ceb6-9e88-4cbc-8797-a628c8c378e6}" partId="{ced233a4-cece-48cc-96c6-040b3a0802e2}" to="{f24014fe-db83-4943-b473-47cc46daa29f}"/>
+  <edge boneName="BackRightFemur" from="{3bba1aea-3783-40e4-aa55-43e6ac69a53a}" id="{86910f0d-45bc-4025-9220-c2285e3c2405}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" to="{fa13c511-1949-4c7c-b327-ba2acacd67c5}"/>
+  <edge boneName="Head" from="{7c57aac8-d799-40e0-8005-94faf092437b}" id="{869f187d-7051-44c7-9a29-7f42175735b7}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" to="{42ff9546-0769-4bd0-900c-72a0563c3a10}"/>
+  <edge boneName="Abdomen" from="{c6c940cc-3e7a-47fd-b7f5-63d67d92b539}" id="{8c6e3798-5ad2-468e-a437-c2201f0413f4}" partId="{f80608f1-6103-58da-b2f7-327a64d55370}" to="{2b1e56f9-594f-496b-9bc4-5981305ffac2}"/>
+  <edge boneName="Thorax" from="{7c2f08ef-432e-4728-a806-9ae5fa9c87d3}" id="{91b657b3-f127-4cf5-bafb-8dd88aedcdc0}" partId="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" to="{672cad7a-6582-40d7-925c-bac72439ad1b}"/>
+  <edge boneName="Abdomen" from="{8517c319-a9b9-4d3a-9dc0-2a6a4a59d045}" id="{9ca05004-5930-48e8-95a2-3d51b478f1bf}" partId="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" to="{27c80a92-ecb8-4be5-ba27-54748727aab8}"/>
+  <edge boneName="Head" from="{75b57620-e2fa-47d4-aa25-23a1fe34623c}" id="{a8f3b474-1c1d-415b-b5b2-9d6c0fd43549}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" to="{98f0ad5d-2fd2-4a96-9ba7-f7223f72007d}"/>
+  <edge boneName="FrontRightTibia" from="{0c48f39e-e441-461a-b1ec-8efd28fbeb7e}" id="{b4049f7f-700f-4332-9637-07a22a6ce04b}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" to="{3b560ee7-253a-41f1-8a77-8ff77be20f9b}"/>
+  <edge boneName="Abdomen" from="{27c80a92-ecb8-4be5-ba27-54748727aab8}" id="{b6b3ebda-7d6d-40ab-811d-48bc5923185e}" partId="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" to="{f5a8d9eb-4994-4486-917f-759ec7417b9e}"/>
+  <edge boneName="FrontRightCoxa" from="{cd1b9a3c-a336-475e-b326-df3295c6b41d}" id="{be0076da-4066-4ead-9b32-8ee007e38a33}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" to="{774eccca-f78b-4b1e-9ca3-40007b28fd76}"/>
+  <edge boneName="Head" from="{f24014fe-db83-4943-b473-47cc46daa29f}" id="{bf34b39d-5975-4980-b180-5b9b4c3857d1}" partId="{ced233a4-cece-48cc-96c6-040b3a0802e2}" to="{958566f5-5081-44dd-bd6a-089c0610bd93}"/>
+  <edge boneName="BackRightFemur" from="{85f8af12-4809-4938-b3d3-9759b62f9438}" id="{bf3a66c5-3ae6-425b-ad6d-e05086ee5368}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" to="{3aa32a1f-f5fd-487e-9b41-154d7d5d2baa}"/>
+  <edge boneName="BackRightFemur" from="{5461b172-1809-4cc0-827e-cc0e4d0eded8}" id="{c2359981-8eb1-45de-a888-39706cadcb1a}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" to="{85f8af12-4809-4938-b3d3-9759b62f9438}"/>
+  <edge boneName="Head" from="{8bbe66a8-08fa-4eaf-8a2e-de09ab895ff0}" id="{c5f1d0aa-660c-45cf-b4da-fee2a7154a24}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" to="{579f9a9b-4ae8-4c6f-afd8-0b4e8cf17733}"/>
+  <edge boneName="Head" from="{1a2d5d7e-d205-42a0-928d-a47390bf32c9}" id="{d05dbf70-abfd-4e30-8482-181ec5dc740d}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" to="{61d70e69-ff04-4a1f-b6a3-eef6c5cf70d2}"/>
+  <edge boneName="FrontRightTibia" from="{3b560ee7-253a-41f1-8a77-8ff77be20f9b}" id="{d7e2a2e3-0f25-4cf8-86c7-fe9c4e4f90c2}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" to="{4d6f551b-109b-4f25-861b-515b98188bc4}"/>
+  <edge boneName="FrontRightFemur" from="{63c07d06-ead5-4a43-94a7-9fc7c4756f17}" id="{dcc0ce2b-5d5c-4589-8ba0-5fa7513eda74}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" to="{0640f73c-e30a-4838-a699-f82d66b7007b}"/>
+  <edge boneName="Thorax" from="{f5a8d9eb-4994-4486-917f-759ec7417b9e}" id="{e21648b0-5064-48a4-837f-db061162427a}" partId="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" to="{1be2e310-4378-4195-8746-3359647fc48c}"/>
+  <edge boneName="BackRightTibia" from="{e6d07594-1f71-435b-ab9c-b66cf70de02d}" id="{e21a90a1-1cde-4196-882f-db5cd8424e65}" partId="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" to="{e1fbe044-8760-454b-95cc-09a0b6203fd3}"/>
+  <edge boneName="Head" from="{61d70e69-ff04-4a1f-b6a3-eef6c5cf70d2}" id="{e2f085e2-4892-4d1b-9e94-7a5c726b8809}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" to="{835e43af-8d95-4fb8-87ee-6444873cbe78}"/>
+  <edge boneName="Head" from="{9ed86130-fdf1-4f87-acb6-4387c4ac54d2}" id="{e64eb5bb-3f5b-4a82-b08e-345e96ecc5d1}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" to="{7b16775f-a085-4cc2-a529-8d30995dc6cf}"/>
+  <edge boneName="Abdomen" from="{e83eab2b-d59f-4785-bb6b-e55c016387da}" id="{e686295a-92c7-4dba-a5ba-0b2bb871cdb8}" partId="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" to="{8517c319-a9b9-4d3a-9dc0-2a6a4a59d045}"/>
+  <edge boneName="Abdomen" from="{b47a5ad3-e6f8-4f61-897a-3b2b30641035}" id="{e922d7c7-3e41-4727-ba9d-63a04fc78290}" partId="{f80608f1-6103-58da-b2f7-327a64d55370}" to="{be102035-5b9f-49f2-b3a4-5e14788fafe0}"/>
+  <edge boneName="Head" from="{02545a9d-b2c1-489b-bf6a-9bb8cdca68e3}" id="{f02e737f-4379-4bb3-b236-f6fb06cbe305}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" to="{1a2d5d7e-d205-42a0-928d-a47390bf32c9}"/>
+  <edge boneName="Head" from="{c64cacbf-de46-4a12-9b55-2d6e63232928}" id="{f8742656-02a9-4fa0-82dc-9a6c2445e6fa}" partId="{5334210f-cc6c-6024-4e33-d6dec7807e02}" to="{8bbe66a8-08fa-4eaf-8a2e-de09ab895ff0}"/>
+  <edge boneName="FrontRightCoxa" from="{774eccca-f78b-4b1e-9ca3-40007b28fd76}" id="{f8936a27-f27f-42e0-bc7a-da788ebf9637}" partId="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" to="{194a8e9a-94d3-4d4d-a5f3-33c0d9e2a85e}"/>
+  <edge boneName="Head" from="{958566f5-5081-44dd-bd6a-089c0610bd93}" id="{fb73bb74-344d-41cc-adda-57d47a6ab906}" partId="{ced233a4-cece-48cc-96c6-040b3a0802e2}" to="{a923a6ca-fe66-41cd-ac78-a850c9fc9922}"/>
  </edges>
  <parts>
-  <part chamfered="false" cutFace="Hexagon" deformWidth="0.670000" disabled="false" id="{0f9c80a0-4787-2ed4-ff2d-98b4c1687c8f}" locked="false" rounded="true" subdived="false" visible="true" xMirrored="false"/>
-  <part chamfered="false" cutFace="Hexagon" disabled="false" id="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
-  <part chamfered="false" cutFace="Hexagon" disabled="false" id="{679c76b0-cf5f-9852-66d8-3c811d86b935}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
-  <part chamfered="false" cutFace="Hexagon" deformWidth="0.860000" disabled="false" id="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" locked="false" rounded="true" subdived="false" visible="true" xMirrored="false"/>
-  <part chamfered="false" cutFace="Hexagon" disabled="false" id="{bd04c671-cfb8-1019-7e75-83d57fb50311}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
-  <part chamfered="false" disabled="false" id="{eb8d04ff-7a99-5910-6107-4f13510ed46e}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
-  <part chamfered="false" cutFace="Hexagon" deformWidth="0.860000" disabled="false" id="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" locked="false" rounded="true" subdived="false" visible="true" xMirrored="false"/>
+  <part chamfered="false" disabled="false" id="{36cc9956-ce92-b667-9ca5-e74b070e6fb0}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
+  <part chamfered="false" cutFace="Hexagon" disabled="false" id="{5334210f-cc6c-6024-4e33-d6dec7807e02}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
+  <part chamfered="false" cutFace="Hexagon" deformWidth="0.860000" disabled="false" id="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" locked="false" rounded="true" subdived="true" visible="true" xMirrored="false"/>
+  <part chamfered="false" cutFace="Hexagon" deformWidth="0.670000" disabled="false" id="{ced233a4-cece-48cc-96c6-040b3a0802e2}" locked="false" rounded="true" subdived="false" visible="true" xMirrored="false"/>
+  <part chamfered="false" cutFace="Hexagon" disabled="false" id="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
+  <part chamfered="false" cutFace="Hexagon" deformThickness="0.630000" deformWidth="1.110000" disabled="false" id="{f80608f1-6103-58da-b2f7-327a64d55370}" locked="false" rounded="true" subdived="false" visible="true" xMirrored="false"/>
+  <part chamfered="false" cutFace="Hexagon" disabled="false" id="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
  </parts>
  <components>
-  <component color="#ff945a29" combineMode="Normal" expanded="false" id="{d996294a-24c4-9cf7-659b-ec91491c244a}" linkData="{0f9c80a0-4787-2ed4-ff2d-98b4c1687c8f}" linkDataType="partId" smoothCutoffDegrees="121.580002">
+  <component color="#ff945a29" combineMode="Normal" expanded="false" id="{bd373dbf-d58c-dfba-3c42-01ff8b4c5bf8}" linkData="{ced233a4-cece-48cc-96c6-040b3a0802e2}" linkDataType="partId" smoothCutoffDegrees="131.050003">
   </component>
-  <component color="#ff814513" combineMode="Normal" expanded="false" id="{2ad85807-a3d4-9077-83eb-37518f106a65}" linkData="{a14fa3d1-d043-aa86-c29f-a3ed00cde0f2}" linkDataType="partId" smoothCutoffDegrees="121.580002">
+  <component color="#ff814513" combineMode="Uncombined" expanded="false" id="{1038c924-336e-fa82-5126-cddbf2d44c3e}" linkData="{f80608f1-6103-58da-b2f7-327a64d55370}" linkDataType="partId" smoothCutoffDegrees="131.050003">
   </component>
-  <component color="#fffaa25e" combineMode="Normal" expanded="false" id="{66f9db40-37d6-73c6-3f66-a24c9895d7e6}" linkData="{679c76b0-cf5f-9852-66d8-3c811d86b935}" linkDataType="partId" smoothCutoffDegrees="121.580002">
+  <component color="#fffaa25e" combineMode="Uncombined" expanded="false" id="{89f4d942-c244-f9d1-e257-59a2aead2316}" linkData="{5334210f-cc6c-6024-4e33-d6dec7807e02}" linkDataType="partId" smoothCutoffDegrees="131.050003">
   </component>
-  <component color="#fffaa25e" combineMode="Normal" expanded="false" id="{9ee31565-6564-0a3d-b480-43ff68c8d4bc}" linkData="{344dbd3c-ac05-24cb-fc5f-9c0eda844b28}" linkDataType="partId" smoothCutoffDegrees="121.580002">
+  <component color="#fffaa25e" combineMode="Normal" expanded="false" id="{a3449e05-6cdc-87f9-ad55-68c60539cb18}" linkData="{dd7b918d-4460-2be4-179d-c7e14d9a85ce}" linkDataType="partId" smoothCutoffDegrees="131.050003">
   </component>
-  <component color="#fffaa25e" combineMode="Normal" expanded="false" id="{af106351-7df9-9884-6414-d3e1e4f3ab9c}" linkData="{bd04c671-cfb8-1019-7e75-83d57fb50311}" linkDataType="partId" smoothCutoffDegrees="121.580002">
+  <component color="#fffaa25e" combineMode="Normal" expanded="false" id="{fbbe59da-3ca3-d246-d18b-1a7a15bbf9b3}" linkData="{f96b9efa-e3bd-9b1d-9cbc-8854dc0c2fa6}" linkDataType="partId" smoothCutoffDegrees="131.050003">
   </component>
-  <component color="#fffaa25e" combineMode="Normal" expanded="false" id="{66ca18d2-ac6b-dfe9-b068-f925d6c1387e}" linkData="{eb8d04ff-7a99-5910-6107-4f13510ed46e}" linkDataType="partId" smoothCutoffDegrees="121.580002">
+  <component color="#fffaa25e" combineMode="Normal" expanded="false" id="{8eaf81e9-83f6-d2f2-e7e2-61e592677d9d}" linkData="{36cc9956-ce92-b667-9ca5-e74b070e6fb0}" linkDataType="partId" smoothCutoffDegrees="131.050003">
   </component>
-  <component color="#fffaa25e" combineMode="Normal" expanded="false" id="{2525f45d-6050-eead-ffda-3aa4c9d98c73}" linkData="{fe371ad1-1e7c-fa61-d9db-e47fab52791d}" linkDataType="partId" smoothCutoffDegrees="121.580002">
+  <component color="#fffaa25e" combineMode="Normal" expanded="false" id="{144d3fda-59cd-1158-68f4-82934b2a9162}" linkData="{7e2c43e4-996a-cfd9-3218-d7caf3654f58}" linkDataType="partId" smoothCutoffDegrees="131.050003">
   </component>
  </components>
  <animations>
-  <animation bodyBobFactor="1.000000" bodyRoll="0.050000" damping="0.950000" dorsalSwayPower="0.200000" durationSeconds="3.000000" finFlop="1.000000" flipAngle="180.000000" flipSpeed="1.000000" forwardThrust="0.080000" frameCount="90.000000" gaitSpeedFactor="4.400000" groundBounce="0.220000" hitFrequency="8.000000" hitIntensity="1.000000" id="{3412a52c-b29a-417e-9379-aa9cf0514137}" lengthStiffness="0.900000" maxJointAngleDeg="120.000000" name="InsectRubHands" parentStiffness="0.800000" pectoralFlapPower="0.400000" pectoralPhaseOffset="0.000000" pelvicFlapPower="0.250000" pelvicPhaseOffset="0.500000" planeStabilization="false" rubForwardOffsetFactor="1.000000" rubUpOffsetFactor="1.000000" spinDecay="4.000000" spineAmplitude="0.148426" stepHeightFactor="1.000000" stepLengthFactor="1.000000" swimFrequency="2.000000" swimSpeed="1.000000" tailAmplitudeRatio="2.500000" tilt="0.000000" type="InsectRubHands" useFabrikIk="false" ventralSwayPower="0.200000" waveLength="1.000000"/>
+  <animation bodyBobFactor="1.000000" bodyRoll="0.050000" damping="0.950000" dorsalSwayPower="0.200000" durationSeconds="3.000000" finFlop="1.000000" flipAngle="180.000000" flipSpeed="1.000000" forwardThrust="0.080000" frameCount="90.000000" gaitSpeedFactor="4.400000" groundBounce="0.220000" hitFrequency="8.000000" hitIntensity="1.000000" id="{3412a52c-b29a-417e-9379-aa9cf0514137}" lengthStiffness="0.900000" maxJointAngleDeg="120.000000" name="rubHands" parentStiffness="0.800000" pectoralFlapPower="0.400000" pectoralPhaseOffset="0.000000" pelvicFlapPower="0.250000" pelvicPhaseOffset="0.500000" planeStabilization="false" rubForwardOffsetFactor="1.000000" rubUpOffsetFactor="1.000000" spinDecay="4.000000" spineAmplitude="0.148426" stepHeightFactor="1.000000" stepLengthFactor="1.000000" surfaceMaterial="Stone" swimFrequency="2.000000" swimSpeed="1.000000" tailAmplitudeRatio="2.500000" tilt="0.000000" type="InsectRubHands" useFabrikIk="false" ventralSwayPower="0.200000" waveLength="1.000000"/>
   <animation bodyBobFactor="1.000000" bodyRoll="0.050000" damping="0.660000" dorsalSwayPower="0.200000" durationSeconds="3.000000" finFlop="1.000000" flipAngle="180.000000" flipSpeed="1.000000" forwardThrust="0.080000" frameCount="90.000000" gaitSpeedFactor="6.800000" groundBounce="0.530000" hitFrequency="8.000000" hitIntensity="1.000000" id="{701f5b07-244a-2b05-ae34-820c364f5935}" lengthStiffness="0.330000" maxJointAngleDeg="93.000000" name="InsectDie" parentStiffness="0.310000" pectoralFlapPower="0.400000" pectoralPhaseOffset="0.000000" pelvicFlapPower="0.250000" pelvicPhaseOffset="0.500000" planeStabilization="true" rubForwardOffsetFactor="1.000000" rubUpOffsetFactor="1.000000" spinDecay="4.000000" spineAmplitude="0.148426" stepHeightFactor="1.000000" stepLengthFactor="1.000000" swimFrequency="2.000000" swimSpeed="1.000000" tailAmplitudeRatio="2.500000" tilt="0.000000" type="InsectDie" useFabrikIk="true" ventralSwayPower="0.200000" waveLength="1.000000"/>
-  <animation bodyBobFactor="1.070000" bodyRoll="0.050000" damping="0.950000" dorsalSwayPower="0.200000" durationSeconds="3.000000" finFlop="1.000000" flipAngle="180.000000" flipSpeed="1.000000" forwardThrust="0.080000" frameCount="90.000000" gaitSpeedFactor="9.800000" groundBounce="0.220000" hitFrequency="8.000000" hitIntensity="1.000000" id="{8eef9729-5588-afbb-557d-c9b8f48235c1}" lengthStiffness="0.900000" maxJointAngleDeg="120.000000" name="InsectWalk" parentStiffness="0.800000" pectoralFlapPower="0.400000" pectoralPhaseOffset="0.000000" pelvicFlapPower="0.250000" pelvicPhaseOffset="0.500000" planeStabilization="true" rubForwardOffsetFactor="1.000000" rubUpOffsetFactor="1.000000" spinDecay="4.000000" spineAmplitude="0.148426" stepHeightFactor="1.000000" stepLengthFactor="1.000000" swimFrequency="2.000000" swimSpeed="1.000000" tailAmplitudeRatio="2.500000" tilt="0.000000" type="InsectWalk" useFabrikIk="false" ventralSwayPower="0.200000" waveLength="1.000000"/>
-  <animation bodyBobFactor="1.000000" bodyRoll="0.050000" damping="0.650000" dorsalSwayPower="0.200000" durationSeconds="3.000000" finFlop="1.000000" flipAngle="180.000000" flipSpeed="1.000000" forwardThrust="0.080000" frameCount="90.000000" gaitSpeedFactor="6.800000" groundBounce="0.600000" hitFrequency="8.000000" hitIntensity="1.000000" id="{b8e0fcaa-7f06-70be-51ac-090fb69b97ec}" lengthStiffness="0.510000" maxJointAngleDeg="79.000000" name="InsectForward" parentStiffness="0.400000" pectoralFlapPower="0.400000" pectoralPhaseOffset="0.000000" pelvicFlapPower="0.250000" pelvicPhaseOffset="0.500000" planeStabilization="true" rubForwardOffsetFactor="1.000000" rubUpOffsetFactor="1.000000" spinDecay="4.000000" spineAmplitude="0.148426" stepHeightFactor="1.000000" stepLengthFactor="1.000000" swimFrequency="2.000000" swimSpeed="1.000000" tailAmplitudeRatio="2.500000" tilt="0.000000" type="InsectForward" useFabrikIk="true" ventralSwayPower="0.200000" waveLength="1.000000"/>
-  <animation bodyBobFactor="1.000000" bodyRoll="0.050000" damping="0.650000" dorsalSwayPower="0.200000" durationSeconds="3.000000" finFlop="1.000000" flipAngle="180.000000" flipSpeed="1.000000" forwardThrust="0.080000" frameCount="90.000000" gaitSpeedFactor="6.800000" groundBounce="0.600000" hitFrequency="8.000000" hitIntensity="1.000000" id="{e95aa1b7-8e9e-a853-6815-06d1bcabd7a3}" lengthStiffness="0.510000" maxJointAngleDeg="79.000000" name="InsectAttack" parentStiffness="0.400000" pectoralFlapPower="0.400000" pectoralPhaseOffset="0.000000" pelvicFlapPower="0.250000" pelvicPhaseOffset="0.500000" planeStabilization="true" rubForwardOffsetFactor="1.000000" rubUpOffsetFactor="1.000000" spinDecay="4.000000" spineAmplitude="0.148426" stepHeightFactor="1.000000" stepLengthFactor="1.000000" swimFrequency="2.000000" swimSpeed="1.000000" tailAmplitudeRatio="2.500000" tilt="0.000000" type="InsectAttack" useFabrikIk="true" ventralSwayPower="0.200000" waveLength="1.000000"/>
+  <animation bodyBobFactor="0.420000" bodyRoll="0.050000" damping="0.950000" dorsalSwayPower="0.200000" durationSeconds="3.000000" finFlop="1.000000" flipAngle="180.000000" flipSpeed="1.000000" forwardThrust="0.080000" frameCount="90.000000" gaitSpeedFactor="9.800000" groundBounce="0.220000" hitFrequency="8.000000" hitIntensity="1.000000" id="{8eef9729-5588-afbb-557d-c9b8f48235c1}" lengthStiffness="0.900000" maxJointAngleDeg="120.000000" name="walk" parentStiffness="0.800000" pectoralFlapPower="0.400000" pectoralPhaseOffset="0.000000" pelvicFlapPower="0.250000" pelvicPhaseOffset="0.500000" planeStabilization="true" rubForwardOffsetFactor="1.000000" rubUpOffsetFactor="1.000000" spinDecay="4.000000" spineAmplitude="0.148426" stepHeightFactor="1.000000" stepLengthFactor="1.000000" surfaceMaterial="Stone" swimFrequency="2.000000" swimSpeed="1.000000" tailAmplitudeRatio="2.500000" tilt="0.000000" type="InsectWalk" useFabrikIk="false" ventralSwayPower="0.200000" waveLength="1.000000"/>
+  <animation bodyBobFactor="1.000000" bodyRoll="0.050000" damping="0.650000" dorsalSwayPower="0.200000" durationSeconds="3.000000" finFlop="1.000000" flipAngle="180.000000" flipSpeed="1.000000" forwardThrust="0.080000" frameCount="90.000000" gaitSpeedFactor="6.800000" groundBounce="0.600000" hitFrequency="8.000000" hitIntensity="1.000000" id="{b8e0fcaa-7f06-70be-51ac-090fb69b97ec}" lengthStiffness="0.510000" maxJointAngleDeg="79.000000" name="forward" parentStiffness="0.400000" pectoralFlapPower="0.400000" pectoralPhaseOffset="0.000000" pelvicFlapPower="0.250000" pelvicPhaseOffset="0.500000" planeStabilization="true" rubForwardOffsetFactor="1.000000" rubUpOffsetFactor="1.000000" spinDecay="4.000000" spineAmplitude="0.148426" stepHeightFactor="1.000000" stepLengthFactor="1.000000" surfaceMaterial="Stone" swimFrequency="2.000000" swimSpeed="1.000000" tailAmplitudeRatio="2.500000" tilt="0.000000" type="InsectForward" useFabrikIk="true" ventralSwayPower="0.200000" waveLength="1.000000"/>
+  <animation attackSpeedFactor="0.550000" bodyBobFactor="1.000000" bodyRoll="0.050000" damping="0.650000" diveIntensityFactor="0.520000" dorsalSwayPower="0.200000" durationSeconds="3.000000" finFlop="1.000000" flipAngle="180.000000" flipSpeed="1.000000" forwardThrust="0.080000" frameCount="90.000000" gaitSpeedFactor="6.800000" groundBounce="0.600000" hitFrequency="8.000000" hitIntensity="1.000000" id="{e95aa1b7-8e9e-a853-6815-06d1bcabd7a3}" lengthStiffness="0.510000" maxJointAngleDeg="79.000000" name="atack" parentStiffness="0.400000" pectoralFlapPower="0.400000" pectoralPhaseOffset="0.000000" pelvicFlapPower="0.250000" pelvicPhaseOffset="0.500000" planeStabilization="true" rubForwardOffsetFactor="1.000000" rubUpOffsetFactor="1.000000" spinDecay="4.000000" spineAmplitude="0.148426" stepHeightFactor="1.000000" stepLengthFactor="1.000000" surfaceMaterial="Stone" swimFrequency="2.000000" swimSpeed="1.000000" tailAmplitudeRatio="2.500000" tilt="0.000000" type="InsectAttack" useFabrikIk="true" ventralSwayPower="0.200000" waveLength="1.000000"/>
  </animations>
 </canvas>
 ‰PNG
